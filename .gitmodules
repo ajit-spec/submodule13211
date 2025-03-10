@@ -1,0 +1,3 @@
+[submodule "test18792"]
+	path = test18792
+	url = git@github.com-ajit:ajit-spec/test18792.git
